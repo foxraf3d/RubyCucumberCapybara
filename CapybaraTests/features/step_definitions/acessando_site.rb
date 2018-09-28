@@ -1,4 +1,4 @@
-Quando("acesso a url") do
+﻿Quando("acesso a url") do
     visit('/treinamento/home')
 end
 

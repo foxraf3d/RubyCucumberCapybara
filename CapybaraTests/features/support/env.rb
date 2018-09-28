@@ -1,4 +1,4 @@
-require 'capybara/cucumber'
+﻿require 'capybara/cucumber'
 require 'selenium-webdriver'
 
 Capybara.configure do |config|
