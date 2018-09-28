@@ -1,5 +1,5 @@
 Quando("acesso a url") do
-    visit '/treinamento/home'
+    visit('/treinamento/home')
 end
 
 Entao("eu verifico se estou an pagina correta") do
